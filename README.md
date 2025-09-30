@@ -1,78 +1,65 @@
-<!-- Animated Greeting -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B,+I'm+Waqas+Khattak;Frontend+Developer+%F0%9F%96%A5;+AI+Enthusiast+%F0%9F%A7%AA" alt="Typing SVG" />
-</p>
-
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80" alt="Code Banner" width="80%" style="border-radius:12px; box-shadow:0 2px 12px #00f7ff;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hey%20there!%20I'm%20Waqas%20Khan%20👋&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 ---
 
-## 🚀 Frontend Developer & AI Enthusiast
-
-I specialize in building responsive, interactive web interfaces and intelligent AI solutions.  
-My passion combines aesthetics, usability, and smart technology.
-
----
-
-### 🖥️ Frontend Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-</div>
+## 🌟 About Me  
+- 💻 I am a **Frontend Developer** & **AI Developer**  
+- 🎨 Passionate about creating interactive UI & smart AI models  
+- 🚀 Exploring **Machine Learning, Deep Learning, and NLP**  
+- 📚 Love to learn and build creative projects  
 
 ---
 
-### 🤖 AI Skills
+## ⚡ Skills  
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FFCA28?logo=scikit-learn&logoColor=black" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-00BFFF?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-FF6F00?logo=spaCy&logoColor=white" />
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqaskhattak804&theme=react&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=waqaskhattak804&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
-## ✨ Featured Projects
-
+### 🎨 Frontend Development  
 <p align="center">
-  <a href="https://github.com/waqaskhattak804/frontend-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=waqaskhattak804&repo=frontend-portfolio&theme=react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### 🤖 Artificial Intelligence  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%F0%9F%94%A5-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-%F0%9F%93%96-yellow?style=for-the-badge" />
+</p>
+
+---
+
+## 🖼️ Fun Touch  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waqaskhan&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqaskhan&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+<p align="center">
+  <a href="waqaskhan818286@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/waqaskhattak804/ai-ml-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=waqaskhattak804&repo=ai-ml-projects&theme=react" />
+  <a href="waqaskhan818286@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="waqaskhan818286@gmail.com">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 📫 Connect with Me
-
 <p align="center">
-  <a href="mailto:waqaskhan818286@gmail.com"><img src="https://img.shields.io/badge/Email-waqaskhattak804%40gmail.com-blue?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/waqaskhan818286/"><img src="https://img.shields.io/badge/LinkedIn-waqaskhan818286-blue?logo=linkedin"></a>
-  <a href="https://waqaskhan818286.github.io/"><img src="https://img.shields.io/badge/Portfolio-waqaskhan818286.github.io-blueviolet?logo=github"></a>
-</p>
-
----
-
-<!-- Animated Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=0EF7FF&center=true&vCenter=true&width=650&height=40&lines=Thanks+for+visiting+my+GitHub+profile!;Let's+connect+and+build+something+awesome+%F0%9F%A4%A9" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
