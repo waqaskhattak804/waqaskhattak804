@@ -50,7 +50,7 @@
   <a href="waqaskhan818286@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="waqaskhan818286@gmail.com">
+  <a href="mailto:waqaskhan818286@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="waqaskhan818286@gmail.com">
